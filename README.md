@@ -1,6 +1,6 @@
 # Reduce Images #
 
-A quick and simple gulp, gulp-imagemin, and imagemin-quant solution to reduce the file size of images for web use.
+A quick and simple gulp, gulp-imagemin, and imagemin-pngquant solution to reduce the file size of images for web use.
 
 **Note:** While you'll have better control using image editing software, this is a good solution for development.
 
